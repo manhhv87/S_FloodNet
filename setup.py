@@ -19,6 +19,7 @@ setup(
         'fvcore',
         'einops',
         'rich',
-        'mmengine'
+        'mmengine',
+        'timm'
     ]
 )

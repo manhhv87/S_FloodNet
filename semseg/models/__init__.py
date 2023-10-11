@@ -8,13 +8,13 @@ from .lawin import Lawin
 
 
 __all__ = [
-    'SegFormer', 
+    'SegFormer',
     'Lawin',
-    'SFNet', 
-    'BiSeNetv1', 
-    
+    'SFNet',
+    'BiSeNetv1',
+
     # Standalone Models
-    'DDRNet', 
-    'FCHarDNet', 
+    'DDRNet',
+    'FCHarDNet',
     'BiSeNetv2'
 ]
